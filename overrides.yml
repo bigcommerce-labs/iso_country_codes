@@ -1,3 +1,7 @@
 ---
 "TWN":
   :name: "Taiwan"
+"XKX":
+  :name: "Kosovo"
+  :alpha2: "XK"
+  :alpha3: "XKX"

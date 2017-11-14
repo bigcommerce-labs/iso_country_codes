@@ -1496,6 +1496,12 @@ class IsoCountryCodes
       self.alpha2  = %q{ZW}
       self.alpha3  = %q{ZWE}
     end
+    class XKX < Code #:nodoc:
+      self.numeric = %q{}
+      self.name    = %q{Kosovo}
+      self.alpha2  = %q{XK}
+      self.alpha3  = %q{XKX}
+    end
   end # end Code
 end # IsoCountryCodes
 
